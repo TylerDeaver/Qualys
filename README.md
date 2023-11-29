@@ -89,7 +89,7 @@ The credentialed scan allowed Qualys to fully evaluate the system, which include
 
 To remediate the majority of the vulnerabilities found during the credentialed scan, the outdated software was uninstalled from the Windows 10 machine. The operating system (OS) was also updated, as a large quantity of the vulnerabilities were related to the OS. Another credentialed scan was performed to verify the implemented remediations resolved the expected vulnerabilities. 
 
-Based on the scan, the remediations were successful. During the verification scan, the vulnerability total dropped from 86 to >>>>>>>>>
+Based on the scan, the remediations were successful. During the verification scan, the vulnerability total dropped from 86 to 31.
 
 ![6 scan](https://github.com/TylerDeaver/Qualys/assets/149614301/054bc9cd-7954-4880-9b69-1f20dd653ef2)
 ![7 details](https://github.com/TylerDeaver/Qualys/assets/149614301/bfd653b0-e51c-457e-89c1-45560bc41a86)
