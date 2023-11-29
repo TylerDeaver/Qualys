@@ -69,9 +69,9 @@ The following steps were then completed:
 4. Restart the virtual machine.
 
 
-## Configure OpenVAS for a Credentialed Scan
+## Configure Qualys for a Credentialed Scan
 
-While the Windows 10 machine restarted, Qaulys was provided the credentials for the Windows 10 VM. A credentialed scan was then performed to evaluate the true vulnerability status of the machine.
+While the Windows 10 machine restarted, Qualys was provided the credentials for the Windows 10 VM. A credentialed scan was then performed to evaluate the true vulnerability status of the machine.
 
 
 ## Results of the Credentialed Scan
